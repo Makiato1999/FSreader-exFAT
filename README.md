@@ -14,4 +14,4 @@
 - such as `./exfat volumes2/1sector-per-cluster/a4image.exfat get "dirs/in/dirs/in/dirs/greetings.txt"`
 - Caution: If you use get command to get `README.md`, the file which you get may substitute this README.md which you read now. If you want to get `anyDirectory/README.md` or `anyDirectory/anyDirectory2/README.md`, etc. Then you can ignore this message.
 ## structure
-<img src="https://github.com/Makiato1999/exFAT-reader/blob/main/hint.jpeg"  width="500" height="300">
+<img src="https://github.com/Makiato1999/exFAT-reader/blob/main/hint.jpeg"  width="700" height="500">
